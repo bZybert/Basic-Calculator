@@ -238,7 +238,7 @@
             this.Xbutton.Name = "Xbutton";
             this.Xbutton.Size = new System.Drawing.Size(102, 71);
             this.Xbutton.TabIndex = 7;
-            this.Xbutton.Text = "X";
+            this.Xbutton.Text = "*";
             this.Xbutton.UseVisualStyleBackColor = true;
             this.Xbutton.Click += new System.EventHandler(this.Xbutton_Click);
             // 
